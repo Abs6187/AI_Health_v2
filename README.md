@@ -17,12 +17,20 @@ A Hugging Face Space for personalized weekly diet and exercise planning, integra
 - **Ayurvedic Insights:** (Planned) Dosha assessment, seasonal herbs, and modern validation.
 
 ---
-
 ## 🖼️ Screenshots
 
-| Main Interface | Plan Example | Food Delivery Integration | Future Implementation |
-|:--------------:|:------------:|:------------------------:|:--------------------:|
-| ![Main UI](project_screenshot1.png) | ![Plan Example](project_screenshot2.png) | ![Food Delivery](project_screenshot3.png) | ![Future](Future_Implementation.png) |
+**Main Interface**  
+![Main UI](project_screenshot1.png)
+
+**Plan Example**  
+![Plan Example](project_screenshot2.png)
+
+**Food Delivery Integration**  
+![Food Delivery](project_screenshot3.png)
+
+**Future Implementation**  
+![Future](Future_Implementation.png)
+
 
 ---
 
